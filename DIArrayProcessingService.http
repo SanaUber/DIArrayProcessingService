@@ -1,0 +1,6 @@
+@DIArrayProcessingService_HostAddress = http://localhost:5242
+
+GET {{DIArrayProcessingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
